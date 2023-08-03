@@ -1,4 +1,4 @@
-# Terraform config for DigitalOcean [Express app](https://github.com/Lisa-Stats/express-app-helm-charts/tree/main)
+# Terraform config on DigitalOcean for [express app](https://github.com/Lisa-Stats/express-app-helm-charts/tree/main)
 ## General setup
 ### Creates using terraform modules:
 - VPC
