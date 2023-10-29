@@ -1,5 +1,5 @@
 data "digitalocean_kubernetes_versions" "doks" {
-  version_prefix = "1.25."
+  version_prefix = "1.26."
 }
 
 data "digitalocean_sizes" "doks" {
